@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+이 사이트는 개인적인 knowledge base로 사용하기 위해 만들었습니다.
+다만 혹시라도 누군가에겐 도움이 될까 하여 공개영역인 깃헙 페이지에 업로드를 하였습니다.
+저의 개인적인 견해나 경험담을 그 때 그 때 남기는 용도이므로
+불완전한 정보이거나 오류가 있을 수 있으니 감안해 주시기 바랍니다.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+문의사항이 있으시면 트위터 [@Thefron](http://twitter.com/thefron) 으로 멘션 주세요.
+잘 이용하지는 않지만 확인은 빠르게 하는 편입니다.
